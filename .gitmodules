@@ -1,0 +1,9 @@
+[submodule "idr"]
+	path = idr
+	url = https://github.com/lioryariv/idr.git
+[submodule "IGR"]
+	path = IGR
+	url = https://github.com/amosgropp/IGR.git
+[submodule "src/third_party/python-path-specification"]
+	path = src/third_party/python-path-specification
+	url = https://github.com/cpburnz/python-path-specification.git
