@@ -1,0 +1,42 @@
+# Compiled python files.
+*.py[cod]
+
+# C extensions.
+*.so
+
+# Packages.
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+/MANIFEST
+.tox
+
+# Installer logs.
+pip-log.txt
+
+# Temporary files.
+*~
+*.swp
+
+# Hidden files.
+.*
+!.gitignore
+
+# Sublime Text file.
+*.sublime-project
+*.sublime-workspace
+
+*.iml
+
+/dev
